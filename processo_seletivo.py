@@ -8,7 +8,7 @@ link = "https://api.openai.com/v1/chat/completions"
 id_modelo = "gpt-3.5-turbo"
 print("Olá, digite sua dúvida, ou digite 'sair' para sair!")  
 while True: 
-    user_input = input("Usuario: ")
+    user_input = input("\nUsuario: ")
     if user_input.lower() == 'sair':
         break
         
