@@ -1,0 +1,10 @@
+****MANUAL DE USO DO SISTEMA DE PERGUNTAS E RESPOSTAS OPENAI VER. 3.5 TURBO****
+
+
+- Ao clicar em iniciar o programa, digite sua dúvida no terminal;
+
+- O bot de respostas irá responder quaisquer dúvidas que o/a usuário/a tenha;
+
+- O bot ficará a disposição até que o/a usuário/a digite "sair", dessa forma encerrando o programa imediatamente;
+
+- As respostas são datadas até 2021, portanto é possível que hajam algumas divergências com acontecimentos reais;
